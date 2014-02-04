@@ -1,0 +1,4 @@
+eventing
+========
+
+Akka Eventing
